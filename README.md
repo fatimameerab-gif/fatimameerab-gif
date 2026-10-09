@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123456,100:00d9ff&height=200&section=header&text=Meerab%20Aslam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Research%20%7C%20NLP%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" alt="Meerab Aslam" />
@@ -78,7 +78,7 @@ A machine learning project for predicting customer churn using classification me
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,sqlite&theme=dark" alt="Developer tools" />
 </p>
 
----
+
 
 <div align="center">
 
