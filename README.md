@@ -1,13 +1,10 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123456,100:00d9ff&height=200&section=header&text=Meerab%20Aslam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Research%20%7C%20NLP%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" alt="Meerab Aslam" />
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Building+Practical+AI+Applications" alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Building+Practical+AI+Applications" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -78,7 +75,7 @@ A machine learning project for predicting customer churn using classification me
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,sqlite&theme=dark" alt="Developer tools" />
 </p>
 
-
+---
 
 <div align="center">
 
@@ -87,4 +84,3 @@ A machine learning project for predicting customer churn using classification me
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=100&section=footer" width="100%" alt="Decorative footer" />
-```
