@@ -1,16 +1,21 @@
- <div align="center">
+```html
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123456,100:00d9ff&height=200&section=header&text=Meerab%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Research%20%7C%20NLP%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" alt="Meerab Fatima" />
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Building+Practical+AI+Applications" alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Building+Practical+AI+Applications" alt="Machine Learning and NLP" />
 
-<p>
-<a href="https://www.linkedin.com/in/meerab-aslam-921b31264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://orcid.org/0009-0000-5527-4920"><img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="mailto:fatimameerabb063@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/meerab-aslam-921b31264/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:fatimameerabb063@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://orcid.org/0009-0000-5527-4920">
+<img src="https://img.shields.io/badge/ORCID-RESEARCHER-333333?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
 
 </div>
 
@@ -24,11 +29,11 @@ My projects include AI-powered career guidance, resume–job matching, and multi
 
 ## Research Interests
 
-* Machine Learning and Natural Language Processing
-* Sentence Embeddings and Semantic Similarity
-* Information Retrieval and Semantic Search
-* Resume–Job Matching and Recommendation Systems
-* Large Language Models
+- Machine Learning and Natural Language Processing
+- Sentence Embeddings and Semantic Similarity
+- Information Retrieval and Semantic Search
+- Resume–Job Matching and Recommendation Systems
+- Large Language Models
 
 ## Featured Projects
 
@@ -69,18 +74,13 @@ A machine learning project for predicting customer churn using classification me
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,sqlite&theme=dark" alt="Developer tools" />
 </p>
 
-## Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/meerab-aslam-921b31264/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" /></a>
-<a href="mailto:fatimameerabb063@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" alt="Email" /></a>
-<a href="https://orcid.org/0009-0000-5527-4920"><img src="https://cdn.simpleicons.org/orcid/A6CE39" height="42" alt="ORCID" /></a>
-</p>
-
 ---
 
 <div align="center">
+
 <i>Building, learning, and exploring intelligent systems through research.</i>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=100&section=footer" width="100%" alt="Decorative footer" />
+```
