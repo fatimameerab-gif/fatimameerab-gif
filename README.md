@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:101820,100:00D9FF&text=Meerab%20Fatima&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20NLP%20Research&descSize=16&descAlignY=57&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Meerab Fatima — AI and ML Research" />
@@ -148,4 +148,3 @@ A machine learning project that uses classification methods to predict customer 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123456,100:050505&height=100&section=footer" width="100%" alt="" />
 
 </div>
-```
