@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/meerab-aslam-921b31264/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
 <a href="mailto:fatimameerabb063@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Gmail" /></a>
 <a href="https://orcid.org/0009-0000-5527-4920"><img src="https://img.shields.io/badge/ORCID-RESEARCHER-0d1117?style=for-the-badge&logo=orcid&logoColor=00d9ff" alt="ORCID" /></a>
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/DESIGN-PORTFOLIO-0d1117?style=for-the-badge&logo=figma&logoColor=00d9ff" alt="Design Portfolio" /></a>
+<a href="https://meerabfatima063.netlify.app"><img src="https://img.shields.io/badge/DESIGN-PORTFOLIO-0d1117?style=for-the-badge&logo=figma&logoColor=00d9ff" alt="Design Portfolio" /></a>
 
 </div>
 
@@ -79,7 +79,7 @@ I design interfaces, brand identities and visual content for clients and student
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/VIEW%20MY%20DESIGN%20PORTFOLIO-00d9ff?style=for-the-badge&logo=figma&logoColor=0d1117" alt="View design portfolio" /></a>
+<a href="https://meerabfatima063.netlify.app"><img src="https://img.shields.io/badge/VIEW%20MY%20DESIGN%20PORTFOLIO-00d9ff?style=for-the-badge&logo=figma&logoColor=0d1117" alt="View design portfolio" /></a>
 
 </div>
 
