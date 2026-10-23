@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123456,100:00d9ff&height=200&section=header&text=Meerab%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Graphic%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=16" width="100%" alt="Meerab Fatima" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123456,100:00d9ff&height=200&section=header&text=Meerab%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Graphic%20Design%20%7C%20UI%20UX%20Design&descAlignY=58&descSize=16" width="100%" alt="Meerab Fatima" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Graphic+Design+%26+UI%2FUX;Reproducible+Evaluation+of+AI+Systems" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%26+NLP;Semantic+Matching+%26+Information+Retrieval;Graphic+Design+and+UI+UX+Design;Reproducible+Evaluation+of+AI+Systems" alt="Animated introduction" />
 
 <br/>
 
